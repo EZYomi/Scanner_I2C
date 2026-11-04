@@ -1,4 +1,4 @@
-# Mini Projet Banc de Test
+# Mini Projet Scanner I2C
 
 ### Réalisé par mes soins 📌
 
@@ -18,10 +18,10 @@ Dans ce répertoire vous trouverez mes différents ficher de PCB ainsi que que d
 #### Feuille de route 🗃️
 
 - [x] Imagination et conception du schéma et du PCB
-- [x] Programmer en Langage C / Arduino
-- [x] Prévoir une procédure de test complète
-- [x] Versionnage du projet a l'aide de GIT
-- [X] Création d'un README esthéthique et mise à jour
+- [] Programmer en Langage C / Arduino
+- [] Prévoir une procédure de test complète
+- [] Versionnage du projet a l'aide de GIT
+- [] Création d'un README esthéthique et mise à jour
 
 Pour plus d'information vous pouvez me contacter. [📑](https://mail.google.com/mail/u/0/?service=mail&flowName=GlifWebSignIn&flowEntry=AccountChooser&ec=asw-gmail-globalnav-signin#inbox?compose=new)
 
