@@ -3191,13 +3191,13 @@
 		(layer "Edge.Cuts")
 		(uuid "a0144901-2eec-4043-a4ff-261384de6e56")
 	)
-	(gr_text "GAINCHE Valentin	\nCIEL2  2026"
-		(at 178.5 133.5 0)
+	(gr_text "Fait par GAINCHE Valentin	\nBTS CIEL2 Lycée Paul Langevin 2026"
+		(at 126 132 0)
 		(layer "Edge.Cuts")
 		(uuid "83012bce-e4d1-4804-ab9c-b717a70d1d52")
 		(effects
 			(font
-				(size 1.5 1.5)
+				(size 3 2.5)
 				(thickness 0.3)
 				(bold yes)
 			)

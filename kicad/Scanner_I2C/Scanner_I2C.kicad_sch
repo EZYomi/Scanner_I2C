@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "Scanner-I2C")
-		(date "2026-11-06")
-		(rev "V0.2")
+		(date "2026-11-13")
+		(rev "V1.0")
 		(company "Lycée Paul Langevin")
 	)
 	(lib_symbols
@@ -3128,7 +3128,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "5e61d0c8-8c86-4a3c-ae53-ee87340443ea")
+			(uuid "5e61d0c8-8c86-4a3c-ae53-ee87340443eb")
 		)
 		(instances
 			(project ""
