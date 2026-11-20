@@ -9,8 +9,8 @@
 	(paper "A4")
 	(title_block
 		(title "Scanner_I2C")
-		(date "2026-11-06")
-		(rev "V0.2")
+		(date "2026-11-20")
+		(rev "V0.3")
 		(company "Lycée Paul Langevin")
 	)
 	(layers
@@ -3182,7 +3182,7 @@
 	)
 	(gr_rect
 		(start 39.5 35)
-		(end 199.5 135.5)
+		(end 110.5 113.5)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -3192,12 +3192,12 @@
 		(uuid "a0144901-2eec-4043-a4ff-261384de6e56")
 	)
 	(gr_text "Fait par GAINCHE Valentin	\nBTS CIEL2 Lycée Paul Langevin 2026"
-		(at 126 132 0)
+		(at 42.5 112 0)
 		(layer "Edge.Cuts")
 		(uuid "83012bce-e4d1-4804-ab9c-b717a70d1d52")
 		(effects
 			(font
-				(size 3 2.5)
+				(size 2 1.5)
 				(thickness 0.3)
 				(bold yes)
 			)

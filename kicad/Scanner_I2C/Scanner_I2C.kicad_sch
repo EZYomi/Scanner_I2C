@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "Scanner-I2C")
-		(date "2026-11-13")
-		(rev "V1.0")
+		(date "2026-11-20")
+		(rev "V0.3")
 		(company "Lycée Paul Langevin")
 	)
 	(lib_symbols
